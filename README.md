@@ -3,7 +3,7 @@
 ### I'm passionate about development, tech entrepreneurship, and enhancing user experience
 
 - 🎓 I’m currently a Front-end student at Noroff
-- 🚀 Right now i'm working on my JavaScript skills and building portfolio
+- 🚀 Right now i'm learning React!
 - 📊 Experience: Bachelors in entrepreneurship and innovation / Worked in retail, kindergarten, B2B sales and started business/online store
 - 🤝 How to reach me: [LinkedIn](https://www.linkedin.com/in/line-svensen-967131122/)
 - 💬 Lets chat about: Tech business ideas!
