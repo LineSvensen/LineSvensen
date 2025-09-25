@@ -2,9 +2,8 @@
 
 ### I'm passionate about development, tech entrepreneurship, and enhancing user experience
 
-- 🎓 I’m currently a Front-end student at Noroff
-- 🚀 Right now i'm learning React!
-- 📊 Experience: Bachelors in entrepreneurship and innovation / Worked in retail, kindergarten, B2B sales and started business/online store
+- 🚀 Im currenly learning App development and Backend. And of course continuing expanding my knowledge in Front-end!
+- 📊 Experience: Front-end developer higher professional degree from Noroff. Bachelors in entrepreneurship and innovation / Worked in everything from retail, kindergarten, B2B sales to started business/online store.
 - 🤝 How to reach me: [LinkedIn](https://www.linkedin.com/in/line-svensen-967131122/)
 - 💬 Lets chat about: Tech business ideas!
 - 🎈 Fun fact: I'm a huge Britney Spears fan
